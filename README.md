@@ -8,8 +8,10 @@ Prof. Biplav Srivastava, AI Institute, University of South Carolina
 Spring 2024, [**Course Website**](https://sites.google.com/site/biplavsrivastava/teaching/prog-csce-240-spring-2024-advanced-programming-techniques)
 ---
 
+<!--- 
 ## A Few Highlighted Student Course Projects
 _A few course project highlights_
+---> 
 
 ## Previous course instance(s)
 1. Spring 2022 - [course website](https://sites.google.com/site/biplavsrivastava/teaching/csce-240-advanced-programming-techniques/csce-240-spring-2022-advanced-programming-techniques); [code and highlighted student projects](https://github.com/biplav-s/course-adv-proglang), teaching experience [blog - May 2022](https://www.linkedin.com/pulse/back-c-teaching-undergraduate-programming-course-after-srivastava/).
