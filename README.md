@@ -1,5 +1,3 @@
-# course-adv-proglang-s24
-
 # Material for CSCE 240 (Honors) course: Advanced Programming Techniques
 
 
